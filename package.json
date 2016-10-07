@@ -1,7 +1,12 @@
 {
-  "name": "bixby-uip",
+  "name": "bixby-uis",
   "version": "0.0.0",
-  "description": "",
+  "description": "User information services for the Bixby framework.",
+  "keywords": [
+    "finger",
+    "webfinger",
+    "lrdd"
+  ],
   "author": {
     "name": "Jared Hanson",
     "email": "jaredhanson@gmail.com",
@@ -9,10 +14,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/bixbyjs/bixby-uip.git"
+    "url": "git://github.com/bixbyjs/bixby-uis.git"
   },
   "bugs": {
-    "url": "http://github.com/bixbyjs/bixby-uip/issues"
+    "url": "http://github.com/bixbyjs/bixby-uis/issues"
   },
   "license": "MIT",
   "licenses": [

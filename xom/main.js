@@ -8,8 +8,8 @@ exports = module.exports = function(resolver) {
   return api;
 };
 
-exports['@implements'] = 'http://i.bixbyjs.org/uip';
+exports['@implements'] = 'http://i.bixbyjs.org/uis';
 exports['@singleton'] = true;
 exports['@require'] = [
-  'http://i.bixbyjs.org/uip/Resolver'
+  'http://i.bixbyjs.org/uis/Resolver'
 ];
