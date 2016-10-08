@@ -1,7 +1,7 @@
 {
   "name": "bixby-uis",
   "version": "0.0.0",
-  "description": "User information services for the Bixby framework.",
+  "description": "User information services for Bixby.js.",
   "keywords": [
     "finger",
     "webfinger",
