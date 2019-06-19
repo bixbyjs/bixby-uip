@@ -1,7 +1,7 @@
 {
-  "name": "bixby-uis",
+  "name": "bixby-uns",
   "version": "0.0.0",
-  "description": "User information services for Bixby.js.",
+  "description": "Universal name system components for Bixby.js.",
   "keywords": [
     "finger",
     "webfinger",
@@ -14,10 +14,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/bixbyjs/bixby-uis.git"
+    "url": "git://github.com/bixbyjs/bixby-uns.git"
   },
   "bugs": {
-    "url": "http://github.com/bixbyjs/bixby-uis/issues"
+    "url": "http://github.com/bixbyjs/bixby-uns/issues"
   },
   "license": "MIT",
   "licenses": [
@@ -28,7 +28,7 @@
   ],
   "main": "./index.js",
   "assembly": {
-    "namespace": "uis",
+    "namespace": "uns",
     "components": [
       "main"
     ]
